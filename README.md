@@ -17,7 +17,7 @@ Upon successful login, a new thread is spawned to receive messages. The message 
 ### Running the Client
 
 ```bash
-python3.7 client.py
+python3.7 TCPClient3.py
 ```
 # Features
 
@@ -35,7 +35,7 @@ The server parses messages by splitting them into sections, with the first eleme
 ## Running the Server
 
 ```bash
-python3.7 server.py
+python3.7 TCPServer3.py
 ```
 
 ## Data Structures
